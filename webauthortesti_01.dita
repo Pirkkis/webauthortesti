@@ -4,10 +4,13 @@
  <title>User manual for the great device</title>
  <shortdesc></shortdesc>
  <conbody>
-  <p>Here is how you use the device:<ul id="ul_l1f_dyp_mx">
-    <li>Switch it on.</li>
-    <li>Use it</li>
-    <li>Switch it off.</li>
-   </ul></p>
+  <p>Here is how you <?oxy_insert_start author="Pirkkis" timestamp="20161003T214824+0300"?>should
+      <?oxy_insert_end?>use the device:<ul id="ul_l1f_dyp_mx">
+        <li>Switch it
+          <?oxy_comment_start author="Pirkkis" timestamp="20161003T214844+0300" comment="ON (isolla)"?>on<?oxy_comment_end?>.</li>
+        <li>Use it</li>
+        <li>Switch it off.</li>
+      </ul></p>
  </conbody>
 </concept>
+<?oxy_options track_changes="on"?>
